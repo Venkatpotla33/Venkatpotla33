@@ -77,7 +77,7 @@ Tools: Azure SQL Database | SQL
 
 💻 GitHub: [VenkatPotla33](https://github.com/Venkatpotla33)
 
-📩 Email: venkatanarayanapotla99@gmail.com
+📩 Email: venkatpotla133@gmail.com
 
 #
 😄 Pronouns:

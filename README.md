@@ -4,9 +4,10 @@
 
 A data wizard with a dash of humor, a sprinkle of curiosity, and a whole lot of passion for transforming chaos into insights! Whether it’s wrangling messy datasets or creating dashboards so good they deserve an Oscar, I’m your go-to person for making data dance.
 
+🎓 Currently pursuing my M.Tech in Data Science, while sharpening my skills in Data Structures & Algorithms (DSA) and Machine Learning—because what’s better than making data smarter and faster?
+
 #
 Passionate About:
-
 🎯 Data-Driven Decision-Making: Turning raw data into actionable "aha!" moments faster than you can say "SQL query."
 
 🎨 Visual Storytelling: Creating dashboards so elegant they could hang in an art gallery (but probably won’t because they’re just charts).
@@ -16,22 +17,36 @@ Passionate About:
 #
 Skills:
 
-🧙‍♂️ Programming Magic: SQL (my wand), Python (my spellbook), DAX (my secret weapon).
+🧙‍♂️ Programming Magic:
 
-📊 Visualization Wizardry: Power BI and Excel—because pie charts and bar graphs deserve to look fabulous too.
+SQL (my wand)
 
-💾 Data Alchemy: Cleaning, modeling, and making sense of the data mess no one else dares to touch.
+Python (my spellbook)
 
-🔧 Excel Skills: Pivot tables so powerful, they could pivot your life around.
+DAX (my secret weapon)
+
+DSA: Writing efficient code that even compilers respect
+
+Machine Learning: Training models that (almost) think for themselves
+
+📊 Visualization Wizardry:
+
+Power BI and Excel—because pie charts and bar graphs deserve to look fabulous too
+
+💾 Data Alchemy:
+
+Cleaning, modeling, and making sense of the data mess no one else dares to touch
+
+🔧 Excel Sorcery:
+
+Pivot tables so powerful, they could pivot your life around
 
 #
 🌱 Currently Leveling Up In:
 
-☁️ Cloud wizardry to unlock the full potential of Azure.
-
-🧠 Building machine learning models (so smart, they might start charging me rent).
-
-🤖 Generative AI—for when I want AI to write my emails, code, or even order pizza.
+🧠 DSA & Machine Learning – because smart data needs smart logic
+☁️ Cloud wizardry to unlock the full potential of Azure
+🤖 Generative AI—for when I want AI to write my emails, code, or even order pizza
 
 #
 🏆 Legendary Projects
@@ -72,11 +87,9 @@ He/Him/Data Enthusiast
 #
 ⚡ Hobbies:
 
-🎲 Solving Puzzles: Because figuring out Rubik’s cubes is surprisingly similar to untangling SQL joins.
-
-📸 Photography: Turning moments into masterpieces, one click at a time.
-
-🏏 Outdoor Fun: Cracking sixes on the cricket field like I crack datasets.
+🎲 Solving Puzzles: Because figuring out Rubik’s cubes is surprisingly similar to untangling SQL joins
+📸 Photography: Turning moments into masterpieces, one click at a time
+🏏 Outdoor Fun: Cracking sixes on the cricket field like I crack datasets
 
 #
 🎉 Fun Fact About Me:

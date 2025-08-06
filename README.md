@@ -56,7 +56,7 @@ Tools: Azure SQL Database | SQL
 #
 📫 How to Summon Me:
 
-🌐 Portfolio: [Venkat’s Data Wonderland](https://venkatpotla33.github.io/Venkat-Portfolio/)
+🌐 Portfolio: [Venkat’s Data Wonderland](https://venkatpotla33.github.io/Venkat_potla_Portfolio/)
 
 🤝 LinkedIn: [Venkat Potla](http://www.linkedin.com/in/venkatpotla33)
 

@@ -113,11 +113,13 @@ K-Means clustering on customer behavior — **40%** better inventory planning, *
 ### 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Venkatpotla33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkatpotla33&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Venkatpotla33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=Venkatpotla33&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatpotla33&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatpotla33&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="60%" alt="Top Languages"/>
 </div>
+
+> If any card above shows broken, it's a temporary outage on the stats service (they run on shared free infra and occasionally sleep/rate-limit) — refreshing the page usually fixes it within a minute.
 
 <!--
 Optional add-on: animated contribution snake.

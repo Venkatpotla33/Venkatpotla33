@@ -1,112 +1,141 @@
-## Hi there 👋
+<div align="center">
 
-👋 Hi, I’m @VenkatPotla33
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Venkat%20Potla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Insight%20Architect&descAlignY=58&descSize=18" width="100%"/>
 
-A data wizard with a dash of humor, a sprinkle of curiosity, and a whole lot of passion for transforming chaos into insights! Whether it’s wrangling messy datasets or creating dashboards so good they deserve an Oscar, I’m your go-to person for making data dance.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=8A63F2&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+ML+Engineer;Building+GANs+that+learn+without+pairs;Turning+2.4M+rows+into+decisions;Currently%3A+Hunting+ghost+kitchens+in+Zomato+data" alt="Typing SVG" />
+</a>
 
-🎓 Currently pursuing my M.Tech in Data Science, while sharpening my skills in Data Structures & Algorithms (DSA) and Machine Learning—because what’s better than making data smarter and faster?
+<br/>
 
-#
-Passionate About:
-🎯 Data-Driven Decision-Making: Turning raw data into actionable "aha!" moments faster than you can say "SQL query."
+![AUC](https://img.shields.io/badge/Churn_Model_AUC-0.9082-8A63F2?style=for-the-badge&labelColor=0f0c29)
+![PSNR](https://img.shields.io/badge/DualGAN_PSNR-8.00-00d4ff?style=for-the-badge&labelColor=0f0c29)
+![Orders](https://img.shields.io/badge/Orders_Analyzed-2.44M-ff6ec7?style=for-the-badge&labelColor=0f0c29)
+![Revenue](https://img.shields.io/badge/Revenue_Mapped-%24986M-ffd166?style=for-the-badge&labelColor=0f0c29)
 
-🎨 Visual Storytelling: Creating dashboards so elegant they could hang in an art gallery (but probably won’t because they’re just charts).
+</div>
 
-🔍 Uncovering Patterns: Finding trends that make people say, "How did we miss that?"
+---
 
-#
-Skills:
+### 👋 About Me
 
-🧙‍♂️ Programming Magic:
+I build models that turn raw, messy data into decisions worth trusting. Currently completing my **M.Tech in Data Science** (GITAM University), with a foundation in Civil Engineering that taught me one thing early: **structure matters, whether you're modeling a beam or a dataset.**
 
-SQL (my wand)
+I work across the full pipeline — SQL for extraction, Python for modeling, Power BI/DAX for the story you tell a stakeholder in 30 seconds.
 
-Python (my spellbook)
+```python
+class Venkat:
+    def __init__(self):
+        self.role = "Data Scientist"
+        self.stack = ["SQL", "Python", "Power BI", "Azure", "TensorFlow", "PyTorch"]
+        self.currently_building = "Ghost Kitchen Detection Engine"
+        self.currently_learning = ["Generative AI", "Azure ML", "DSA"]
 
-DAX (my secret weapon)
+    def solve(self, chaos: "dataset") -> "insight":
+        return self.stack.apply(chaos)
+```
 
-DSA: Writing efficient code that even compilers respect
+---
 
-Machine Learning: Training models that (almost) think for themselves
+### 🧠 Featured Work
 
-📊 Visualization Wizardry:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Power BI and Excel—because pie charts and bar graphs deserve to look fabulous too
+**🔀 DualGAN — Unpaired Image Translation**
+Built a dual generative adversarial network for image-to-image translation without paired training data — improved PSNR from **4.28 → 8.00** over baseline.
+`PyTorch` `TensorFlow` `CNNs` `GANs`
 
-💾 Data Alchemy:
+</td>
+<td width="50%" valign="top">
 
-Cleaning, modeling, and making sense of the data mess no one else dares to touch
+**📉 Churn Prediction — Behavioral Feature Engineering**
+M.Tech thesis: engineered CSS, EII & CFI behavioral features across 40,000+ customer records, lifting model AUC from **0.9056 → 0.9082**.
+`Python` `scikit-learn` `Feature Engineering`
 
-🔧 Excel Sorcery:
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Pivot tables so powerful, they could pivot your life around
+**👻 Ghost Kitchen Detection** *(in progress)*
+Detecting co-located, multi-brand delivery kitchens from Zomato data — **604 clusters** identified across **141 cities** on 9,551+ rows.
+`Excel` `SQL` `Python` `Power BI`
 
-#
-🌱 Currently Leveling Up In:
+</td>
+<td width="50%" valign="top">
 
-🧠 DSA & Machine Learning – because smart data needs smart logic
-☁️ Cloud wizardry to unlock the full potential of Azure
-🤖 Generative AI—for when I want AI to write my emails, code, or even order pizza
+**🏦 Bank Loan Analysis**
+Analyzed **$453.8M** in transactions; drove a **15%** lift in loan issuance and **20%** approval increase via DAX-powered Power BI dashboards.
+`SQL` `Power BI` `DAX`
 
-#
-🏆 Legendary Projects
-🔮 Project 1: Bank Loan Prophecy
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Predicted loan approval trends and improved issuance rates by 15%, making me feel like the Nostradamus of finance.
+**🍔 Zomato Sales Analysis**
+Mined **2.44M orders** worth **$986M** in revenue to uncover consumer demand patterns and optimize operations.
+`Excel` `Power BI`
 
-Tools: SQL | Power BI
+</td>
+<td width="50%" valign="top">
 
-🍔 Project 2: Zomato Sales Feast
+**🛒 Ecommerce Customer Segmentation**
+K-Means clustering on customer behavior — **40%** better inventory planning, **25%** improved targeting precision.
+`Python` `scikit-learn` `K-Means`
 
-Analyzed millions of food orders (yes, that’s a lot of biryanis) to uncover consumer cravings and optimize operational strategies.
+</td>
+</tr>
+</table>
 
-Tools: Power BI | Excel
+---
 
-💳 Project 3: Credit Card Chronicles
+### 🛠️ Tech Stack
 
-Cracked the code of customer behavior for 10k+ credit card users. Result? Insights worth millions (and a newfound fear of credit scores).
+<div align="center">
 
-Tools: Azure SQL Database | SQL
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#
-📫 How to Summon Me:
+</div>
 
-🌐 Portfolio: [Venkat’s Data Wonderland](https://venkatpotla33.github.io/Venkat_potla_Portfolio/)
+---
 
-🤝 LinkedIn: [Venkat Potla](http://www.linkedin.com/in/venkatpotla33)
+### 📊 GitHub Analytics
 
-💻 GitHub: [VenkatPotla33](https://github.com/Venkatpotla33)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Venkatpotla33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkatpotla33&theme=tokyonight&hide_border=true" width="49%"/>
 
-📩 Email: venkatpotla133@gmail.com
-
-#
-😄 Pronouns:
-
-He/Him/Data Enthusiast
-
-#
-⚡ Hobbies:
-
-🎲 Solving Puzzles: Because figuring out Rubik’s cubes is surprisingly similar to untangling SQL joins
-📸 Photography: Turning moments into masterpieces, one click at a time
-🏏 Outdoor Fun: Cracking sixes on the cricket field like I crack datasets
-
-#
-🎉 Fun Fact About Me:
-
-I believe in a world where every problem has a data-driven solution… unless the problem is running out of snacks. Then it’s just a tragedy. 😄
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatpotla33&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
 
 <!--
-**Venkatpotla33/Venkatpotla33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Optional add-on: animated contribution snake.
+1. Create a GitHub Action using Platane/snk to generate `github-contribution-grid-snake.svg`
+2. Uncomment the line below once the SVG is generated in your repo
+<img src="https://raw.githubusercontent.com/Venkatpotla33/Venkatpotla33/output/github-contribution-grid-snake.svg" width="100%"/>
 -->
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A63F2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://venkatpotla33.github.io/Venkat_potla_Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatpotla33)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatpotla133@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>

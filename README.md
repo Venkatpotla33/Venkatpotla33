@@ -114,13 +114,13 @@ K-Means clustering on customer behavior — **40%** better inventory planning, *
 
 <div align="center">
 
-![Open to Work](https://img.shields.io/badge/Open_to-Data_Analyst_%7C_Data_Scientist_%7C_Data_Engineer-2ea44f?style=for-the-badge&labelColor=0f0c29)
+![Open to Work](https://img.shields.io/badge/Open_to-Data_Analyst_%7C_Data_Scientist_%7C_Data_Engineer_ML_Engineer-2ea44f?style=for-the-badge&labelColor=0f0c29)
 ![Location](https://img.shields.io/badge/Based_in-Visakhapatnam%2C_India-8A63F2?style=for-the-badge&labelColor=0f0c29)
 ![Status](https://img.shields.io/badge/M.Tech_Data_Science-2025--2027-00d4ff?style=for-the-badge&labelColor=0f0c29)
 
 </div>
 
-I'm actively interviewing for **Data Analyst, Data Scientist, and Data Engineer** roles — happy to walk through any project above in depth, take on a live case study, or share the full codebase on request.
+I'm actively interviewing for **Data Analyst, Data Scientist, Data Engineer and ML Engineer** roles — happy to walk through any project above in depth, take on a live case study, or share the full codebase on request.
 
 ---
 

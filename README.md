@@ -110,23 +110,38 @@ K-Means clustering on customer behavior — **40%** better inventory planning, *
 
 ---
 
-### 📊 GitHub Analytics
+### 🟢 Open to Opportunities
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Venkatpotla33&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com?user=Venkatpotla33&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatpotla33&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages"/>
+![Open to Work](https://img.shields.io/badge/Open_to-Data_Analyst_%7C_Data_Scientist_%7C_Data_Engineer-2ea44f?style=for-the-badge&labelColor=0f0c29)
+![Location](https://img.shields.io/badge/Based_in-Visakhapatnam%2C_India-8A63F2?style=for-the-badge&labelColor=0f0c29)
+![Status](https://img.shields.io/badge/M.Tech_Data_Science-2025--2027-00d4ff?style=for-the-badge&labelColor=0f0c29)
+
 </div>
 
-> If a card ever shows broken, it's almost always a temporary hiccup on the free shared service — try opening the image URL directly in a new tab; if it loads there but not here, just re-save this README to force GitHub's cache to refresh.
+I'm actively interviewing for **Data Analyst, Data Scientist, and Data Engineer** roles — happy to walk through any project above in depth, take on a live case study, or share the full codebase on request.
 
-<!--
-Optional add-on: animated contribution snake.
-1. Create a GitHub Action using Platane/snk to generate `github-contribution-grid-snake.svg`
-2. Uncomment the line below once the SVG is generated in your repo
-<img src="https://raw.githubusercontent.com/Venkatpotla33/Venkatpotla33/output/github-contribution-grid-snake.svg" width="100%"/>
--->
+---
+
+### 🎓 Certifications
+
+<div align="center">
+
+![Google](https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![PwC](https://img.shields.io/badge/PwC-Power_BI_Job_Simulation-D04A02?style=for-the-badge&logo=pwc&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-AI_Skills_Fest_2026-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+
+</div>
+
+---
+
+### 🧭 Beyond the Data
+
+Two years split between **civil engineering fundamentals** and **data analytics work** taught me to treat every dataset like a structural problem — find the load-bearing insight first, everything else is decoration.
+
+📸 When I'm not modeling data, I'm behind a camera — cinematic photography and videography, framing moments with the same intent I bring to a dashboard.
 
 ---
 

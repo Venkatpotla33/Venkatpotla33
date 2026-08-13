@@ -113,13 +113,13 @@ K-Means clustering on customer behavior — **40%** better inventory planning, *
 ### 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Venkatpotla33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com/?user=Venkatpotla33&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Venkatpotla33&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=Venkatpotla33&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatpotla33&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="60%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatpotla33&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages"/>
 </div>
 
-> If any card above shows broken, it's a temporary outage on the stats service (they run on shared free infra and occasionally sleep/rate-limit) — refreshing the page usually fixes it within a minute.
+> If a card ever shows broken, it's almost always a temporary hiccup on the free shared service — try opening the image URL directly in a new tab; if it loads there but not here, just re-save this README to force GitHub's cache to refresh.
 
 <!--
 Optional add-on: animated contribution snake.
